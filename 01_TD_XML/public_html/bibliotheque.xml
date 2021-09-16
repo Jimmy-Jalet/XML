@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE bibliotheque SYSTEM "bibliotheque.dtd">
+<!--<?xml-stylesheet href="bibliotheque.css" type="text/css" ?>-->
+<?xml-stylesheet href="bibliotheque.xsl" type="text/xsl" ?>
 
 
 
