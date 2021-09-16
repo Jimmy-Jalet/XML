@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliotheque SYSTEM "bibliotheque.dtd">
+
+
+
+<bibliotheque>
+    <allee numero = "1">
+        <rayon numero = "1" >
+            <ouvrage numero = "" types = "litterature">
+                <titre>
+                    Le papillon des étoiles
+                </titre>
+                <auteur>
+                    Bernard WERBER
+                </auteur>
+            </ouvrage>
+            <ouvrage numero ="" types = "manuelScolaire">
+                <titre>
+                    Les Formes de base
+                </titre>
+                <auteur>
+                    Daniele Dumont
+                </auteur>
+            </ouvrage>
+            <ouvrage numero ="" types = "scienceEtTechnique">
+                <titre>
+                    XML et XSL : Les feuilles de style XML
+                </titre>
+                <auteur>
+                    Cyril Vincent
+                </auteur>
+            </ouvrage>
+        </rayon>
+        <rayon numero = "2" >
+            <ouvrage numero = "102" types = "periodique">
+                <titre>
+                    LINUX Magazine
+                </titre>
+                <auteur></auteur>
+            </ouvrage>
+            <ouvrage numero ="" types = "periodique">
+                <titre>
+                    Closer
+                </titre>
+                <auteur></auteur>
+            </ouvrage>
+            <ouvrage numero ="1" types = "litterature">
+                <titre>
+                    Harry Potter
+                </titre>
+                <auteur>
+                    JK Rollin
+                </auteur>
+            </ouvrage>
+        </rayon>        
+    </allee>
+    <allee numero ="2">
+        <rayon numero ="1">
+            <ouvrage numero ="31" types = "litterature">
+                <titre>
+                    Jeu de nains
+                </titre>
+                <auteur>
+                    Terry Pratchett
+                </auteur>
+            </ouvrage>
+        </rayon>
+        <rayon numero ="2">
+            <ouvrage numero ="2" types = "litterature">
+                <titre>
+                    Fondation
+                </titre>
+                <auteur>
+                    Isaac Asimov
+                </auteur>
+            </ouvrage>
+            <ouvrage numero ="" types = "scienceEtTechnique">
+                <titre>
+                    Ajax, jQuery et PHP
+                </titre>
+                <auteur>
+                    Jean-marie Defrance
+                </auteur>
+            </ouvrage>
+        </rayon>
+    </allee>
+</bibliotheque>
