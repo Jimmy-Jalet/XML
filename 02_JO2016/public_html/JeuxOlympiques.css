@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23 sept. 2021, 15:33:50
+    Author     : jjalet
+*/
+
+td.or{
+    background-color: gold;
+}
+td.argent{
+    background-color: gray;
+}
+td.Bronze{
+    background-color: #cd7f32;
+}
+td.allemagne{
+    background-color: mediumpurple;
+    
+}
+td.australie{
+    background-color: hotpink;
+    
+}
+td.chine{
+    background-color: beige;
+    
+}
+td.correedusud{
+    background-color: springgreen;
+    
+}
+td.france{
+    background-color: lightpink;
+    
+}
+td.gb
+{
+    background-color: palegreen;
+    
+}
+td.italie{
+    background-color: lightcoral;
+    
+}
+
+td.japon{
+    background-color: slateblue;
+    
+}
+
+td.russie{
+    background-color: pink;
+    
+}
+td.usa{
+    background-color: aquamarine;
+    
+}

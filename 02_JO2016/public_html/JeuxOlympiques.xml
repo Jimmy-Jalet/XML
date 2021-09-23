@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tableau SYSTEM "JeuxOlympiques.dtd">
+<?xml-stylesheet href="JeuxOlympiques.css" type="text/css" ?>
+<?xml-stylesheet href="JeuxOlympiques.xsl" type="text/xsl" ?>
+
+
+<tableau>
+    <lignes>
+        <pays nomDePays="usa" ></pays>
+        <medailles typeDeMedaille="or">37</medailles>
+        <medailles typeDeMedaille="argent" >38</medailles><medailles typeDeMedaille="bronze" >
+        </medailles>
+    </lignes>
+    <lignes>
+        <pays nomDePays="gb"></pays>
+        <medailles typeDeMedaille="or">37</medailles>
+        <medailles typeDeMedaille="argent" >38</medailles><medailles typeDeMedaille="bronze" >
+        </medailles>
+    </lignes>
+    <lignes>
+        <pays nomDePays="chine"></pays>
+        <medailles typeDeMedaille="or">37</medailles>
+        <medailles typeDeMedaille="argent" >38</medailles><medailles typeDeMedaille="bronze" >
+        </medailles>
+    </lignes>
+    <lignes>
+        <pays nomDePays="russie"></pays>
+        <medailles typeDeMedaille="or">37</medailles>
+        <medailles typeDeMedaille="argent" >38</medailles><medailles typeDeMedaille="bronze" >
+        </medailles>
+    </lignes><lignes>
+        <pays nomDePays="allemagne"></pays>
+        <medailles typeDeMedaille="or">37</medailles>
+        <medailles typeDeMedaille="argent" >38</medailles><medailles typeDeMedaille="bronze" >
+        </medailles>
+    </lignes>
+    <lignes>
+        <pays nomDePays="japon"></pays>
+        <medailles typeDeMedaille="or">37</medailles>
+        <medailles typeDeMedaille="argent" >38</medailles><medailles typeDeMedaille="bronze" >
+        </medailles>
+    </lignes>
+    <lignes>
+        <pays nomDePays="france"></pays>
+        <medailles typeDeMedaille="or">37</medailles>
+        <medailles typeDeMedaille="argent" >38</medailles><medailles typeDeMedaille="bronze" >
+        </medailles>
+    </lignes>
+    <lignes>
+        <pays nomDePays="correedusud"></pays>
+        <medailles typeDeMedaille="or">37</medailles>
+        <medailles typeDeMedaille="argent" >38</medailles><medailles typeDeMedaille="bronze" >
+        </medailles>
+    </lignes>
+    <lignes>
+        <pays nomDePays="italie"></pays>
+        <medailles typeDeMedaille="or">37</medailles>
+        <medailles typeDeMedaille="argent" >38</medailles><medailles typeDeMedaille="bronze" >
+        </medailles>
+    </lignes><lignes>
+        <pays nomDePays="australie"></pays>
+        <medailles typeDeMedaille="or">37</medailles>
+        <medailles typeDeMedaille="argent" >38</medailles><medailles typeDeMedaille="bronze" >
+        </medailles>
+    </lignes>
+
+
+</tableau>
